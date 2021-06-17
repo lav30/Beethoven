@@ -39,9 +39,11 @@
 
 - **Features Heatmap** : This heatmap displays the correlation between features. As evident from the image, most of the features are positively correlated with one another, albeit with a low correlation number.
 
-![Alt text](Images/heatmap2.png?raw=true "Title") 
+![Alt text](Images/5.png?raw=true "Title") 
 
+- 3-D Scatterplots : Visualizing the interaction between three features in the same graph. 
 
+![Alt text](Images/3d.png?raw=true "Title") 
 
 
 
