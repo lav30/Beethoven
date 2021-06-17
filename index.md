@@ -36,6 +36,10 @@
 | ![Alt text](Images/26.png?raw=true "Title")| ![Alt text](Images/25.png?raw=true "Title")  | ![Alt text](Images/23.png?raw=true "Title") 
 
 
+- Features Heatmap : This heatmap displays the correlation between features. As evident from the image, most of the features are positively correlated with one another, albeit with a low correlation number.
+
+![Alt text](Images/heatmap.png?raw=true "Title") 
+
 
 
 
