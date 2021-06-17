@@ -9,3 +9,9 @@
 
 * **Dataset Information** : This dataset has all the compositions from Beethoven's repertoire. The observations describe several audio features of each track including valence, acousticness, loudness,etc. Detailed information about the descriptive features can be found here [Audio features of tracks](https://developer.spotify.com/documentation/web-api/reference/#category-tracks).
 
+## Initial Overview 
+
+|    Valence    |     Tempo     | 
+| ------------- | ------------- |
+| ![] Images/11.png  | Content Cell  |
+| Content Cell  | Content Cell  |
