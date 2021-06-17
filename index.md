@@ -11,7 +11,7 @@
 
 ## Initial Overview 
 
-The table below shows the distribution of three features in the dataset.
+- The table below shows the distribution of three features in the dataset.
 
 *Valence is the positiveness of a track, tempo is the speed of the track and key measures the key the track is in, where the pitch is mapped to integers*. 
 
@@ -19,7 +19,7 @@ The table below shows the distribution of three features in the dataset.
 | ------------- | ------------- | ------------
 |![Alt text](Images/11.png?raw=true "Title")  | ![Alt text](Images/12.png?raw=true "Title")  | ![Alt text](Images/13.png?raw=true "Title")
 
-This table displays the distribution of features over the duration of the tracks.
+- This table displays the distribution of features over the duration of the tracks.
 
 *Most of the compositions are relatively short, as evident from the graphs below.*
 
@@ -27,6 +27,15 @@ This table displays the distribution of features over the duration of the tracks
 | ------------- | ------------- |
 | ![Alt text](Images/3.png?raw=true "Title")| ![Alt text](Images/5.png?raw=true "Title")  |
 
+- The table below displays pairwise scatterplots and jointplots to better understand the interaction between features. 
 
-In a similar manner, all features have been explored visually to understand the audio elements and range of Beethoven's compositions. 
+
+| Tempo & Loudness  | Valence & Tempo | Valence & Danceability |
+| ------------- | ------------- | --------------------------------
+| ![Alt text](Images/26.png?raw=true "Title")| ![Alt text](Images/25.png?raw=true "Title")  | ![Alt text](Images/23.png?raw=true "Title") 
+
+
+
+
+
 
