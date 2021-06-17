@@ -21,6 +21,8 @@ The table below shows the distribution of three features in the dataset.
 
 This table displays the distribution of features over the duration of the tracks.
 
+*Most of the compositions are relatively short, as evident from the graphs below.*
+
 | Loudness  | Valence |
 | ------------- | ------------- |
 | ![Alt text](Images/3.png?raw=true "Title")| ![Alt text](Images/5.png?raw=true "Title")  |
