@@ -19,4 +19,12 @@ The table below shows the distribution of three features in the dataset.
 | ------------- | ------------- | ------------
 |![Alt text](Images/11.png?raw=true "Title")  | ![Alt text](Images/12.png?raw=true "Title")  | ![Alt text](Images/13.png?raw=true "Title")
 
+This table displays the distribution of features over the duration of the tracks.
+
+| Loudness  | Valence |
+| ------------- | ------------- |
+| ![Alt text](Images/3.png?raw=true "Title")| ![Alt text](Images/5.png?raw=true "Title")  |
+
+
 In a similar manner, all features have been explored visually to understand the audio elements and range of Beethoven's compositions. 
+
