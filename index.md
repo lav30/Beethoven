@@ -11,7 +11,7 @@
 
 ## Initial Overview 
 
-- The table below shows the distribution of three features in the dataset.
+- Distribution of three key features in the dataset.
 
 *Valence is the positiveness of a track, tempo is the speed of the track and key measures the key the track is in, where the pitch is mapped to integers*. 
 
@@ -19,7 +19,7 @@
 | ------------- | ------------- | ------------
 |![Alt text](Images/11.png?raw=true "Title")  | ![Alt text](Images/12.png?raw=true "Title")  | ![Alt text](Images/13.png?raw=true "Title")
 
-- This table displays the distribution of features over the duration of the tracks.
+- Distribution of features over the duration of the tracks.
 
 *Most of the compositions are relatively short, as evident from the graphs below.*
 
@@ -28,7 +28,7 @@
 | ![Alt text](Images/3.png?raw=true "Title")| ![Alt text](Images/5.png?raw=true "Title")  |
 
 
-- The table below displays pairwise scatterplots and jointplots to better understand the interaction between features. 
+- Pairwise scatterplots and jointplots. 
 
 
 | Tempo & Loudness  | Valence & Tempo | Valence & Danceability |
@@ -36,7 +36,8 @@
 | ![Alt text](Images/26.png?raw=true "Title")| ![Alt text](Images/25.png?raw=true "Title")  | ![Alt text](Images/23.png?raw=true "Title") 
 
 
-- Features Heatmap : This heatmap displays the correlation between features. As evident from the image, most of the features are positively correlated with one another, albeit with a low correlation number.
+
+- **Features Heatmap** : This heatmap displays the correlation between features. As evident from the image, most of the features are positively correlated with one another, albeit with a low correlation number.
 
 ![Alt text](Images/heatmap2.png?raw=true "Title") 
 
