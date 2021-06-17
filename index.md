@@ -43,7 +43,7 @@
 
 - 3-D Scatterplots : Visualizing the interaction between three features in the same graph. 
 
-![Alt text](Images/3d.png?raw=true "Title") 
+![Alt text](Images/scatter_3d.png?raw=true "Title") 
 
 
 
