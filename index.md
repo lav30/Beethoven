@@ -13,7 +13,7 @@
 
 This dataset primarily consists of quantitative values that describe the musical qualities of each composition. Let's begin with a basic exploration of some of the key features. 
 
-- Distribution of three key features in the dataset.
+- **Distribution of three key features in the dataset.**
 
 *Valence is the positiveness of a track, tempo is the speed of the track and key measures the key the track is in, where the pitch is mapped to integers*. 
 
@@ -21,7 +21,7 @@ This dataset primarily consists of quantitative values that describe the musical
 | ------------- | ------------- | ------------
 |![Alt text](Images/11.png?raw=true "Title")  | ![Alt text](Images/12.png?raw=true "Title")  | ![Alt text](Images/13.png?raw=true "Title")
 
-- Distribution of features over the duration of the tracks.
+- **Distribution of features over the duration of the tracks.**
 
 *Most of the compositions are relatively short, as evident from the graphs below.*
 
@@ -30,7 +30,7 @@ This dataset primarily consists of quantitative values that describe the musical
 | ![Alt text](Images/3.png?raw=true "Title")| ![Alt text](Images/5.png?raw=true "Title")  |
 
 
-- Pairwise scatterplots and jointplots. 
+- **Pairwise scatterplots and jointplots.**
 
 
 | Tempo & Loudness  | Valence & Tempo | Valence & Danceability |
